@@ -82,7 +82,7 @@ Material properties were assigned directly from the **ANSYS Engineering Data Lib
 # 📌 Loading & Boundary Conditions
 
 <p align="center">
-<img src="images/loading.png" width="700">
+<img src="images/loads.png" width="700">
 </p>
 
 The loading conditions were obtained from previous CFD simulations together with OpenRocket flight simulations.
@@ -162,12 +162,11 @@ Localized stress concentrations are limited to expected geometric transition reg
 The obtained results indicate that the rocket nose cone satisfies the structural safety requirements under the applied loading conditions.
 
 ---
-
 # 📄 Report
 
 A public excerpt of the finite element analysis report is available in this repository.
 
-📄 **analysis/Nose_Cone_FEA_Excerpt.pdf**
+📄 [Nose Cone FEA Report](analysis/Nose_Cone_FEA_Excerpt.pdf)
 
 ---
 
