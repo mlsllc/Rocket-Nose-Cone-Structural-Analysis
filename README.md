@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="stress.png" width="800"/>
+  <img src="images/stress.png" width="800"/>
 </p>
 
 <h1 align="center">Nose Cone Structural Analysis Using ANSYS Mechanical</h1>
